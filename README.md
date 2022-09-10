@@ -38,7 +38,7 @@ function AnimatedTyping() {
 ## Props
 | Name | Required | Type | Description | Example | Default
 | -- | -- | -- | -- | -- | -- |
-| ```steps``` | Yes | Array | Determines words to animate and time to wait after typing a word | ```['React', 1000, 'C++', 'Python']``` | None
+| ```steps``` | Yes | array | Determines words to animate and time to wait after typing a word | ```['React', 1000, 'C++', 'Python']``` | None
 | ```wrapper``` | No | string | Element to wrap text in | ```'b'``` | ```<span></span>```
 | ```loop``` | No | number | Number of times to iterate through steps array | ```5``` | ```1```
 | ```typeDelay``` | No | number | Delay in ms after each character when typing | ```100``` | ```50```
