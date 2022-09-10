@@ -54,7 +54,7 @@ export default function Typing(props) {
       }
     };
     animate();
-  }, [animateWord, iterations, steps]);
+  }, []);
   
   return (
     <Tag className={styles.tag}>
