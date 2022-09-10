@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Typing from 'react-animated-typing'
-import 'react-animated-typing/dist/index.css'
 
 const App = () => {
   const wait = 1500;
@@ -15,6 +14,8 @@ const App = () => {
       ]}
       loop={Infinity}
       wrapper="b"
+      typeDelay={100}
+      deleteDelay={10}
     />
   );
 }
