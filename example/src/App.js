@@ -1,10 +1,22 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-animated-typing'
+import Typing from 'react-animated-typing'
 import 'react-animated-typing/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  const wait = 1500;
+  return (
+    <Typing
+      steps={[
+        'React', wait,
+        'C++', wait,
+        'Java', wait,
+        'Python', wait
+      ]}
+      loop={Infinity}
+      wrapper="b"
+    />
+  );
 }
 
 export default App

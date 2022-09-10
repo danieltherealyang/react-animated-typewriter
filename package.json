@@ -1,10 +1,10 @@
 {
-  "name": "react-animated-typing",
+  "name": "react-animated-typewriter",
   "version": "1.0.0",
   "description": "React component for creating typing animation effects",
   "author": "danieltherealyang",
   "license": "GNU GPL v3",
-  "repository": "danieltherealyang/react-animated-typing",
+  "repository": "danieltherealyang/react-animated-typewriter",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
