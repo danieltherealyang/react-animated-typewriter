@@ -5,7 +5,7 @@
 > This package is based on react-typical and supersets its interface.
 [![NPM](https://img.shields.io/npm/v/react-animated-typewriter.svg)](https://www.npmjs.com/package/react-animated-typewriter) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-**Live Demo**: [danieltherealyang.github.io](danieltherealyang.github.io)
+**Live Demo**: [danieltherealyang.github.io](https://danieltherealyang.github.io/)
 
 ## Install
 
