@@ -3,7 +3,7 @@
 
 > The ```react-animated-typewriter``` package is a quick and easy way to implement a typewriter animation component without needing to write any CSS animations or React state management code yourself. 
 > This package is based on react-typical and supersets its interface.
-[![NPM](https://img.shields.io/npm/v/react-animated-typing.svg)](https://www.npmjs.com/package/react-animated-typing) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-animated-typewriter.svg)](https://www.npmjs.com/package/react-animated-typewriter) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
